@@ -19,8 +19,12 @@ My research focuses on Spatial Intelligence. More exactly, I use Computer Vision
 <div id="news_here"></div>
 <script>up_to_date_news("https://franciscosimoes.github.io/news.json", "news_here");</script>
 
-[//]: <> (### Current MSc/PhD students (Co-advisory at Voxar Labs) )
-[//]: <> (* [André Vieira e Silva](https://andreluizbvs.github.io/) )
-[//]: <> (* [Heitor Felix](https://voxarlabs.cin.ufpe.br/~voxarlabs/about) )
-[//]: <> (* [Kelvin Cunha](https://voxarlabs.cin.ufpe.br/~voxarlabs/about) )
-[//]: <> (* [Thiago Souza](https://voxarlabs.cin.ufpe.br/~voxarlabs/about) )
+### Current MSc/PhD students (Co-advisory at Voxar Labs)
+* [André Vieira e Silva](https://andreluizbvs.github.io/);
+* [Heitor Felix](https://voxarlabs.cin.ufpe.br/~voxarlabs/about);
+* [Kelvin Cunha](https://voxarlabs.cin.ufpe.br/~voxarlabs/about);
+* [Thiago Souza](https://voxarlabs.cin.ufpe.br/~voxarlabs/about).
+
+[//]: <> (### Former PhD students and postdocs)
+
+[//]: <> (* [Giorgia Pitteri](https://www.linkedin.com/in/giorgia-pitteri-63218510b), Researcher at Robominds, Munich;)

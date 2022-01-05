@@ -2,8 +2,8 @@
 // <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 // <script src="BibTex.js"></script>
 
-image_root = "https://vincentlepetit.github.io/"
-pdf_root   = "https://vincentlepetit.github.io/"
+image_root = "https://franciscosimoes.github.io/"
+pdf_root   = "https://franciscosimoes.github.io/"
 
 
 var expanded_venues = [
@@ -79,7 +79,7 @@ function entry2html(entry, arxiv_vanity = false, bibtex = true)
     if (weblink != "") {
 	if (!weblink.includes("http")) {
 		weblink = pdf_root + weblink;
-		// weblink = "https://vincentlepetit.github.io/publications/../files/" + weblink;
+		// weblink = "https://franciscosimoes.github.io/publications/../files/" + weblink;
 	}
     }
 	
