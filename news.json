@@ -1,15 +1,42 @@
 [
+	{
+	"posting_date": "2022/01/04",
+	"initial_message": "1 Paper accepted at SIGRAPI 2021 <a href=\"{https://ieeexplore.ieee.org/document/9643100\">STN PLAD: A Dataset for Multi-Size Power Line Assets Detection in High-Resolution UAV Images</a>.",
+	"removal_date": "2022/12/31"
+	},
+
+	{
+	"posting_date": "2022/01/04",
+	"initial_message": "Invited talk at the 2021 China National EDUxIndustry summit. Title: Extended Reality (XR) research in Brazil: Opportunities through the lenses of EDUxIndustry collaboration.",
+	"removal_date": "2022/12/31"
+	},
 
     {
-	"posting_date": "2021/10/18",
-	"initial_message": "Yuming, together with Yang Xiao and Wen Gao (RobotLearnInria), won both tracks 1 and 2 at the <a href=\"https://sites.google.com/view/unidentified-video-object/home\">Unidentified Video Objects challenge</a>!",
-	"removal_date": "2022/10/01"
+	"posting_date": "2022/01/04",
+	"initial_message": "1 Paper accepted at the CVPR2021 Workshop LatinX in CV (LXCV) <a href=\"{https://research.latinxinai.org/papers/cvpr/2021/pdf/10_CameraReady_10.pdf\">Generalizable Multi-Camera 3D Pedestrian Detection</a>.",
+	"removal_date": "2022/12/31"
     },
-	
+
+	{
+	"posting_date": "2021/01/04",
+	"initial_message": "Online Experience Chair for VR 2021.",
+	"removal_date": "2022/12/31"
+	},
+
+	{
+	"posting_date": "2022/01/04",
+	"initial_message": "Best Paper of my PhD student Kelvin Cunha at SIGRAPI 2020 <a href=\"{https://ieeexplore.ieee.org/document/9266023\">A Study on the Impact of Domain Randomization for Monocular Deep 6DoF Pose Estimation</a>, congratulations Kelvin!",
+	"removal_date": "2022/12/31"
+	},
+
     {
-	"posting_date": "2021/07/22",
-	"initial_message": "2 papers accepted at ICCV 2021. The continuation of our work on MCTS for scene understanding has been accepted for an oral presentation, and our work on <a href = \"https://dulucas.github.io/Homepage/gbopt/\">object discovery</a> from videos as a poster. Congratulations Sinisa and Yuming!",
-	"removal_date": "2022/07/01"
-    }  
+	"posting_date": "2020/01/04",
+	"initial_message": "I will be Co-General Chair for ISMAR and SVR 2020.",
+	"date1": "2020/10/01",
+	"message_after_date1": "I am a Co-General Chair for ISMAR and SVR 2020.",
+	"date2": "2020/11/01",
+	"message_after_date2": "Co-General Chair for ISMAR and SVR 2020.",
+	"removal_date": "2022/10/01"
+    }    
 ]
 
