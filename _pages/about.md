@@ -20,10 +20,10 @@ My research focuses on Spatial Intelligence. More exactly, I use Computer Vision
 <script>up_to_date_news("https://franciscosimoes.github.io/news.json", "news_here");</script>
 
 ### Current MSc/PhD students (Co-advisory at Voxar Labs)
-* [André Vieira e Silva](https://andreluizbvs.github.io/);
-* [Heitor Felix](https://voxarlabs.cin.ufpe.br/~voxarlabs/about);
-* [Kelvin Cunha](https://voxarlabs.cin.ufpe.br/~voxarlabs/about);
-* [Thiago Souza](https://voxarlabs.cin.ufpe.br/~voxarlabs/about).
+* [André Vieira e Silva](https://andreluizbvs.github.io/), PhD student;
+* [Heitor Felix](https://voxarlabs.cin.ufpe.br/~voxarlabs/about), MSc student;
+* [Kelvin Cunha](https://voxarlabs.cin.ufpe.br/~voxarlabs/about), PhD student;
+* [Thiago Souza](https://voxarlabs.cin.ufpe.br/~voxarlabs/about), PhD student.
 
 [//]: <> (### Former PhD students and postdocs)
 
