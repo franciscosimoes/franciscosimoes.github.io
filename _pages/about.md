@@ -11,7 +11,7 @@ redirect_from:
 I am an adjuct professor at Universidade Federal Rural de Pernambuco (UFRPE), Brazil. I am also a research leader at Voxar Labs/CIn-UFPE, and the vice-president of the special committee on virtual reality (CE-RV) of the Brazilian Computing Society (SBC).
 
 
-My research focuses on Spatial Intelligence. More exactly, I use Computer Vision (CV) and Deep Learning techniques to better understand a space to allow sensing or interaction with it. Multiple research questions arise from this goal: How can we reduce (or remove) the need for real training data in real world applications as 6DoF pose estimation? How can we improve the accuracy while exploring multiple cues/information as for 3D printed objects? How can we make CV in a privacy-preserving manner? 
+My research focuses on Spatial Intelligence. I use computer vision (CV) and deep learning techniques to better understand a space to allow sensing (e.g. visual inspection, pedestrian detection) and interaction (e.g. augmented reality, virtual reality, metaverse applications) in it. Multiple research questions arise from this goal: How can we reduce (or remove) the need for real training data in real world applications? How can we improve the accuracy while exploring multiple cues/information? How can we make CV in a privacy-preserving manner? 
 
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
