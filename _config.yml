@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Francisco Simões"
   avatar           : "profile.jpg"
-  bio              : "Adjunct Professor at <a href = http://www.dc.ufrpe.br/>DC</a>, <a href=http://www.ufrpe.br/>UFRPE</a>"
+  bio              : "Adjunct Professor at <a href = http://www.dc.ufrpe.br/>DC</a>, <a href=http://www.ufrpe.br/>UFRPE</a><br> Teste nova linha </br>"
   
   location         : "Recife - PE, Brazil"
   
