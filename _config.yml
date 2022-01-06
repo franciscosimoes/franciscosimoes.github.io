@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Francisco Simões"
   avatar           : "profile.jpg"
-  bio              : "Adjunct Professor at <a href = http://www.dc.ufrpe.br/>DC</a>, <a href=http://www.ufrpe.br/>UFRPE</a><br> Teste nova linha </br>"
+  bio              : "Adjunct Professor at <a href = http://www.dc.ufrpe.br/>DC</a>, <a href=http://www.ufrpe.br/>UFRPE</a><br> Researcher at <a href = http://www.cin.ufpe.br/voxarlabs>Voxar Labs</a>, <a href=https://portal.cin.ufpe.br/>CIn/UFPE</a> </br>"
   
   location         : "Recife - PE, Brazil"
   
-  employer         : 
+  employer         : "http://lattes.cnpq.br/4321649532287831"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Th2uQr8AAAAJ&hl=en"
   email            : "francisco.simoes@ufrpe.br"
@@ -103,7 +103,7 @@ author:
   keybase          :
   instagram        :
   impactstory      : 
-  lastfm           : "http://lattes.cnpq.br/4321649532287831"
+  lastfm           :
   linkedin         : "linkedin.com/in/francisco-simoes-73338718"
   orcid            : "https://orcid.org/0000-0001-9368-2298" 
   pinterest        :
