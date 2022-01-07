@@ -15,7 +15,7 @@ var expanded_venues = [
     "CVIU",  "Computer Vision and Image Understanding (<b>CVIU</b>)",
     "COMPHY", "Computer Physics Communications (<b>COMPHY</b>)",
 	"CVPR",  "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)",
-    "CVPRW", "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) (<b>CVPRW</b>)",
+    "CVPRW", "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (<b>CVPRW</b>)",
 	"ECCV",  "Proceedings of the European Conference on Computer Vision (<b>ECCV</b>)",
     "ESWA",  "Expert Systems with Applications",
 	"ICCV",  "Proceedings of the International Conference on Computer Vision (<b>ICCV</b>)",
