@@ -280,7 +280,9 @@ function entry2html(entry, arxiv_vanity = false, bibtex = true)
 	return ret;
     } else if (entry['entryType'] == 'hdr') {
 	return title_html + ". " + authors_html + ". " + venue_html + ", " + year_html + ". " + note_html;
-    }
+    }else if (entry['entryType'] == 'misc') {
+	return title_html + ". " + authors_html + ". " + year_html + ". " + note_html;
+	}
 
     ////////////////////////////////////////////////////////////////////////////////
         
