@@ -86,7 +86,7 @@ author:
   
   location         : "Recife - PE, Brazil"
   
-  employer         : "http://lattes.cnpq.br/4321649532287831"
+  employer         : <a href = "http://lattes.cnpq.br/4321649532287831">Lattes curriculum</a>
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Th2uQr8AAAAJ&hl=en"
   email            : "francisco.simoes@ufrpe.br"
