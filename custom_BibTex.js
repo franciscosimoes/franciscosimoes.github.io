@@ -29,7 +29,7 @@ var expanded_venues = [
     "NIPS",  "Advances in Neural Information Processing Systems (<b>NIPS</b>)",
     "PAMI",  "IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>PAMI</b>)",
     "SVR",    "Proceedings of the Symposium on Virtual and Augmented Reality (<b>SIBGRAPI</b>)",
-	"SIBGRAPI", "Proceedings of the Conference on Graphics, Patterns and Images (<b>SVR</b>)",
+	"SIBGRAPI", "Proceedings of the Conference on Graphics, Patterns and Images (<b>SIBGRAPI</b>)",
 	"VISAPP",  "Proceedings of the International Conference on Computer Vision Theory and Applications (<b>VISAPP</b>)",
 	"VR",    "Proceedings of the IEEE Virtual Reality Conference (<b>VR</b>)",
     "WACV",  "IEEE Winter Conference on Applications of Computer Vision (<b>WACV</b>)"
