@@ -281,7 +281,15 @@ function entry2html(entry, arxiv_vanity = false, bibtex = true)
     } else if (entry['entryType'] == 'hdr') {
 	return title_html + ". " + authors_html + ". " + venue_html + ", " + year_html + ". " + note_html;
     }else if (entry['entryType'] == 'misc') {
-	return title_html + ". " + authors_html + ". " + year_html + ". " + note_html;
+		var publisher = extract(entry, 'publisher');
+		if (publisher != ""){
+			var publisher_html = "<span class=\"publisher\">" + publisher + "</span>";
+			var number = extract(entry, 'number');
+    		var number_html = "<span class=\"number\">" + number + "</span>";
+			return title_html + ". " + authors_html + ". " + publisher_html + ": " + number_html + ". " + year_html + ". " + note_html;
+		}else{
+			return title_html + ". " + authors_html + ". " + year_html + ". " + note_html;
+		}
 	}
 
     ////////////////////////////////////////////////////////////////////////////////
