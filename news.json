@@ -1,5 +1,29 @@
 [
 	{
+	"posting_date": "2023/01/01",
+	"initial_message": "1 Paper published at IEEE ACCESS: Towards VR in VR: Assessing Engagement and Social Interaction in a Virtual Conference.",
+	"removal_date": "2023/12/31"
+	},
+
+	{
+	"posting_date": "2022/11/03",
+	"initial_message": "Francisco was elected coordinator of the Special Committee on Virtual Realiy (CERV) of the Brazilian Computer Society (SBC) to work from 2022-2024.",
+	"removal_date": "2023/12/31"
+	},
+
+	{
+	"posting_date": "2022/08/10",
+	"initial_message": "1 Paper published at Pattern Recognition Letters (PRL): The impact of domain randomization on cross-device monocular deep 6DoF detection.",
+	"removal_date": "2023/12/31"
+	},
+
+	{
+	"posting_date": "2022/08/10",
+	"initial_message": "1 Paper published at Machine Vision and Applications (MVA): 3D pedestrian localization using multiple cameras: a generalizable approach.",
+	"removal_date": "2023/12/31"
+	},
+
+	{
 	"posting_date": "2022/01/04",
 	"initial_message": "1 Paper accepted at SIBGRAPI 2021: STN PLAD: A Dataset for Multi-Size Power Line Assets Detection in High-Resolution UAV Images.",
 	"removal_date": "2022/12/31"
