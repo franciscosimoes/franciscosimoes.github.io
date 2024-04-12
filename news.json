@@ -1,20 +1,32 @@
 [
 	{
+	"posting_date": "2024/02/01",
+	"initial_message": "1 Paper published at WACV 2024 (h5-index: 95): Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study.",
+	"removal_date": "2024/12/31"
+	},
+	
+	{
+		"posting_date": "2023/12/01",
+		"initial_message": "1 Paper published at International Journal of Remote Sensing (Impact factor: 3.4): InsPLAD: A Dataset and Benchmark for Power Line Asset Inspection in UAV Images.",
+		"removal_date": "2024/12/31"
+		},
+
+	{
 	"posting_date": "2023/01/01",
 	"initial_message": "1 Paper published at IEEE ACCESS (Impact factor: 3.476): Towards VR in VR: Assessing Engagement and Social Interaction in a Virtual Conference.",
-	"removal_date": "2023/12/31"
+	"removal_date": "2024/12/31"
 	},
 
 	{
 	"posting_date": "2022/11/03",
 	"initial_message": "Francisco was elected coordinator of the Special Committee on Virtual Realiy (CERV) of the Brazilian Computer Society (SBC) to work from 2022-2024.",
-	"removal_date": "2023/12/31"
+	"removal_date": "2024/12/31"
 	},
 
 	{
 	"posting_date": "2022/08/10",
 	"initial_message": "1 Paper published at Pattern Recognition Letters (PRL)(Impact factor: 4.757): The impact of domain randomization on cross-device monocular deep 6DoF detection.",
-	"removal_date": "2023/12/31"
+	"removal_date": "2024/12/31"
 	},
 
 	{

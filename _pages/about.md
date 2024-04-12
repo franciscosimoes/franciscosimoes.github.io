@@ -19,7 +19,7 @@ My research focuses on Spatial Intelligence. I use computer vision (CV) and deep
 <div id="news_here"></div>
 <script>up_to_date_news("https://franciscosimoes.github.io/news.json", "news_here");</script>
 
-### Current MSc/PhD students (Co-advisory at Voxar Labs together with prof. Veronica Techrieb)
+### Current MSc/PhD students (Co-advisory at Voxar Labs with prof. Veronica Techrieb)
 * [André Vieira e Silva](https://andreluizbvs.github.io/), PhD student;
 * [Kelvin Cunha](https://voxarlabs.cin.ufpe.br/~voxarlabs/about), PhD student;
 * [Felipe Battisti](https://voxarlabs.cin.ufpe.br/~voxarlabs/about), MSc student.
