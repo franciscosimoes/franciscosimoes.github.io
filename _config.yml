@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Francisco Simões"
 title_separator          : "-"
 name                     : &name "Francisco Simões"
-description              : &description "Adjuct Professor at DC, UFRPE" #"Adjuct Professor at <a href = "https://http://www.dc.ufrpe.br/">DC,</a>, UFRPE"
+description              : &description "Assistant Professor at CIn, UFPE" #"Assistant Professor at <a href = "https://portal.cin.ufpe.br/pessoas-e-grupos/professores/">CIn,</a>, UFPE"
 url                      : https://franciscosimoes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "franciscosimoes/franciscosimoes.github.io"
@@ -81,15 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Francisco Simões"
-  avatar           : "profile.jpg"
-  bio              : "Adjunct Professor at <a href = http://www.dc.ufrpe.br/>DC</a>, <a href=http://www.ufrpe.br/>UFRPE</a><br> Researcher at <a href = http://www.cin.ufpe.br/voxarlabs>Voxar Labs</a>, <a href=https://portal.cin.ufpe.br/>CIn/UFPE</a> </br>"
+  avatar           : "Francisco_face.jpg"
+  bio              : "Assistant Professor at <a href = https://portal.cin.ufpe.br/pessoas-e-grupos/professores/>CIn</a>, <a href=http://www.ufpe.br/>UFPE</a><br> Researcher at <a href = http://www.cin.ufpe.br/voxarlabs>Voxar Labs</a>, <a href=https://portal.cin.ufpe.br/>CIn/UFPE</a> </br>"
   
   location         : "Recife - PE, Brazil"
   
   employer         : <a href = "http://lattes.cnpq.br/4321649532287831">Lattes curriculum</a>
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Th2uQr8AAAAJ&hl=en"
-  email            : "francisco.simoes@ufrpe.br"
+  email            : "fpms@cin.ufpe.br"
   researchgate     : "https://www.researchgate.net/profile/Francisco-Simoes-2"
   uri              :
   bitbucket        :
