@@ -25,4 +25,4 @@ My research focuses on Spatial Intelligence. I use computer vision (CV) and deep
 
 ### Former PhD students and postdocs
 
-[//]: <> [Kelvin Cunha](https://www.linkedin.com/in/kelvin-cunha-8a84b0a0), Technical Leader, CIn-Softex Robotics Residency Project;
+* [Kelvin Cunha](https://www.linkedin.com/in/kelvin-cunha-8a84b0a0), Technical Leader, CIn-Softex Robotics Residency Project;
