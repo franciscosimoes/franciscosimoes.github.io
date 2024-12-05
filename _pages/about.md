@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an adjunct professor at Universidade Federal Rural de Pernambuco (UFRPE), Brazil. I am also a researcher at Voxar Labs/CIn-UFPE and Visual Computing Lab/DC-UFRPE, and the coordinator of the special committee on virtual reality (CE-RV) of the Brazilian Computing Society (SBC).
+I am an assistant professor at Universidade Federal de Pernambuco (UFPE), Brazil. I am also a researcher at Voxar Labs/CIn-UFPE and Visual Computing Lab/DC-UFRPE, and the coordinator of the special committee on virtual reality (CE-RV) of the Brazilian Computing Society (SBC).
 
 
 My research focuses on Spatial Intelligence. I use computer vision (CV) and deep learning techniques to understand better spaces to allow both sensing (e.g., visual inspection, pedestrian detection) and interaction (e.g., virtual and augmented reality, 3D printing, and metaverse applications). Multiple research questions arise from this goal: How can we reduce (or remove) the need for real training data in real-world vision applications? How can we improve the accuracy of methods by exploring multiple cues/information? How can we make CV in a privacy-preserving context?
@@ -21,9 +21,8 @@ My research focuses on Spatial Intelligence. I use computer vision (CV) and deep
 
 ### Current MSc/PhD students (Co-advisory at Voxar Labs with prof. Veronica Techrieb)
 * [André Vieira e Silva](https://andreluizbvs.github.io/), PhD student;
-* [Kelvin Cunha](https://voxarlabs.cin.ufpe.br/~voxarlabs/about), PhD student;
 * [Felipe Battisti](https://voxarlabs.cin.ufpe.br/~voxarlabs/about), MSc student.
 
-[//]: <> (### Former PhD students and postdocs)
+### Former PhD students and postdocs
 
-[//]: <> (* [Giorgia Pitteri](https://www.linkedin.com/in/giorgia-pitteri-63218510b), Researcher at Robominds, Munich;)
+[//]: <> [Kelvin Cunha](https://www.linkedin.com/in/kelvin-cunha-8a84b0a0), Technical Leader, CIn-Softex Robotics Residency Project;
